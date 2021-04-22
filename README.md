@@ -8,8 +8,9 @@
 
 **현재 서비스 중인 카테고리 :** 음악/여행/맛집/반려동물
 
-[주소]: http://hobbygram.s3-website.ap-northeast-2.amazonaws.com/	"hobbygram"
-[유튜브]: https://youtu.be/SvFizxRfeeU	"하비그램 소개 유튜브"
+[ 주소 ] http://hobbygram.s3-website.ap-northeast-2.amazonaws.com/	
+
+[ 유튜브 ] https://youtu.be/SvFizxRfeeU	
 
 
 
