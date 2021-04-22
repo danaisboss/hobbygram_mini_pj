@@ -27,7 +27,7 @@
 
 - **( 개발환경 Node.js, 웹프레임워크:  Exprss, DB: mongoDB )**
 
-  [깃허브]: https://github.com/JeongJoo-Lee/HobbyGram-Front	"백엔드 깃허브"
+  [깃허브] https://github.com/JeongJoo-Lee/HobbyGram-Front
 
   - 김연재 
   - 박현준
@@ -36,7 +36,7 @@
 
 - **( 프레임워크 React )**
 
-  [깃허브]: https://github.com/JeongJoo-Lee/HobbyGram-Front	"프론트엔드 깃허브"
+  [깃허브] https://github.com/JeongJoo-Lee/HobbyGram-Front
 
   - 박민경
   - 이정주
